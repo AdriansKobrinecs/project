@@ -1,1 +1,24 @@
-# project
+#  Šī projekta izstrādi veica pirmā kursa studenti.(Maksims Mieriņš 11. grupa , Adrians Kobriņecs 13. grupa).
+# LŪGUMS: PALAIST KODU PROGRAMMĀ VISUAL STUDIO
+# Projekta mērķis:
+Ideju mums deva Maksima mamma, kura ir ļoti ieinteresēta ainavu dizainā un ar mīlestību veido unikālus dārza projektus. Viņas darbā radās viens problēma - meklēt ekonomiski izdevīgas augu cenas, lai īstenotu savas radošās idejas.
+Mēs izvēlējāmies izveidot kodu dizaineriem un visiem, kas interesējas par augiem, piedāvājot intuitīvu un ērtu rīku, lai salīdzinātu augu cenas ar diviem zināmākajiem augu pārdošanas vietnēm Latvijā. Mērķis ir nodrošināt iespēju viegli un efektīvi izvēlēties piemērotus augus savām projektu idejām, ņemot vērā individuālās preferences un profesionālās vajadzības, kā arī ekonomiski izdevīgi iegādāties augus sev.
+# Kodu darbība
+Projekta realizācija ir veidota, izmantojot mūsdienīgas bibliotēkas, kuras tika apgūtas pusgada laikā, kā arī jaunās bibliotēkas, ko mēs esam apguvuši, strādājot pie šī projekta nepieciešamajiem uzdevumiem. Pirms tam mēs veicām rūpīgu izpēti par dažādām bibliotēkām un tehnoloģijām, kas tiek izmantotas automatizācijas jomā, lai noteiktu labāko rīku komplektu projekta uzdevumu risināšanai. Ņemot vērā izvēlētās tehnoloģijas, tika izstrādāts projekta kods, kas ietver automatizācijas funkcijas, nodrošinot efektīvu un precīzu uzdevumu izpildi. Turklāt tika ieviestas optimizācijas, lai uzlabotu veiktspēju. Testēšanas procesā tika pārbaudīts kods stabilitātei, pielāgojamībai un atbilstībai noteiktajiem prasījumiem. Pamatojoties uz iegūtajiem rezultātiem, tika veiktas korekcijas un papildinājumi, lai nodrošinātu beztraucētu darbību.
+# Bibliotēkas:
+selenium: Šī bibliotēka ļauj automatizēt pārlūka darbības un veikt darbības tīmeklī. Tā ir bieži izmantota testēšanā un datu iegūšanā no tīmekļa lapām, piemēram, meklējot un aizpildot veidlapas vai noklikšķinot uz pogām.
+time: Šī bibliotēka nodrošina funkcijas laika aizkavēšanai vai pauzēm programmā
+requests:Lai veiktu pieprasījumus uz citām tīmekļa lapām un iegūtu nepieciešamos datus.
+bs4: Lai viegli izvilktu un analizētu informāciju no tīmekļa lapām, kā arī veiktu ērtu datu iegūšanu. 
+
+# Secinājums:
+Pēc veiksmīgas koda izstrādes un ieviešanas rezultāti pārsniedza mūsu cerības, piedāvājot daudz vairāk nekā vienkāršu cenu salīdzinājumu. Mēs redzam, kā mūsu projekts kļūst par neatsiešamu daļu no ainavu dizaineru radošā procesa.
+Programma veiksmīgi samazina meklēšanas laiku: mēs esam pārliecināti, ka katrs stunda, kuru ainavu dizainers ietaupa, izmantojot mūsu tīmekļa lietojumprogrammu, kļūst par vēl vienu krāsainu elementu viņa projektos. Ietaupītais laiks nozīmē vairāk iespēju īstenot radošās idejas.
+# Ieteikumi koda palaišanai un tā iespējās
+Mūsu kods sniedz vairākas galvenās funkcijas. Pirmkārt, tas ļauj lietotājiem ievadīt auga nosaukumu un saņemt informāciju par tā cenu no vairākiem tirgotājiem Latvijā.
+Otrkārt, mēs nodrošinājām dinamisku lapu atjaunošanu, kas ļauj lietotājiem pārlūkot plašu augu klāstu, iegūstot jaunāko informāciju. Tas nozīmē, ka mūsu projekts vienmēr piedāvā svaigu un aktuālu informāciju par pieejamajiem augiem tirgū.
+1) ievadot noteikta auga nosaukumu, saņemam tā cenu no divām vietnēm
+2) Ievadot auga vispārīgo nosaukumu, visas iespējamās šī auga sugas saņemam ar sarakstu, jo kods pats pāršķirsta visas lapas un demonstrē jau savu sarakstu ar tādu pašu augu nosaukumu, kādu esat ievadījis, no abām vietnēm turpat arī rakstīts no kurienes šādas cenas. Jo mājaslapas meklēšana reizēm atklāj pilnīgi ko citu
+3) ja ievads bija nepareizs, tad kods izsniedz kļūdu, ka neatrada to, ko ievadījāt
+# Ja vēlaties uzreiz sākt koda darbību, lūk, saraksts ar dažādām koda situācijām, tāpēc, ja vēlaties redzēt visas funkcijas, ieteicams izmantot visus šos nosaukumus pēc kārtas:
+#
