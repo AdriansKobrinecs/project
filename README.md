@@ -1,4 +1,4 @@
-#  Šī projekta izstrādi veica pirmā kursa studenti.(Maksims Mieriņš 11. grupa , Adrians Kobriņecs 13. grupa).
+#  Šī projekta izstrādi veica pirmā kursa studenti.(Maksims Mieriņš 11. grupa(231RDB121) , Adrians Kobriņecs 13. grupa(231RDB061)).
 # LŪGUMS: PALAIST KODU PROGRAMMĀ VISUAL STUDIO 
 # Projekta mērķis:
 Ideju mums deva cilveks, kurš ir ļoti ieinteresēts ainavu dizainā un ar mīlestību veido unikālus dārza projektus. Viņa darbā radās viens problēma - meklēt ekonomiski izdevīgas augu cenas, lai īstenotu savas radošās idejas.
