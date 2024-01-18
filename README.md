@@ -7,11 +7,9 @@ Mēs izvēlējāmies izveidot kodu dizaineriem un visiem, kas interesējas par a
 Projekta realizācija ir veidota, izmantojot mūsdienīgas bibliotēkas, kuras tika apgūtas pusgada laikā, kā arī jaunās bibliotēkas, ko mēs esam apguvuši, strādājot pie šī projekta nepieciešamajiem uzdevumiem. 
 Pirms tam mēs veicām rūpīgu izpēti par dažādām bibliotēkām un tehnoloģijām, kas tiek izmantotas automatizācijas jomā, lai noteiktu labāko rīku komplektu projekta uzdevumu risināšanai. Ņemot vērā izvēlētās tehnoloģijas, tika izstrādāts projekta kods, kas ietver automatizācijas funkcijas, nodrošinot efektīvu un precīzu uzdevumu izpildi. Turklāt tika ieviestas optimizācijas, lai uzlabotu veiktspēju. Testēšanas procesā tika pārbaudīts kods stabilitātei, pielāgojamībai un atbilstībai noteiktajiem prasījumiem. Pamatojoties uz iegūtajiem rezultātiem, tika veiktas korekcijas un papildinājumi, lai nodrošinātu beztraucētu darbību.
 # Bibliotēkas:
-selenium: Šī bibliotēka ļauj automatizēt pārlūka darbības un veikt darbības tīmeklī. Tā ir bieži izmantota testēšanā un datu iegūšanā no tīmekļa lapām, piemēram, meklējot un aizpildot veidlapas vai noklikšķinot uz pogām.
-time: Šī bibliotēka nodrošina funkcijas laika aizkavēšanai vai pauzēm programmā
-requests:Lai veiktu pieprasījumus uz citām tīmekļa lapām un iegūtu nepieciešamos datus.
-bs4: Lai viegli izvilktu un analizētu informāciju no tīmekļa lapām, kā arī veiktu ērtu datu iegūšanu. 
-sys: Tiek izmantots, lai pārtrauktu programmas izpildi, nododot atpakaļ izpildes rezultātu.
+Selenium: Šī bibliotēka ļauj automatizēt pārlūka darbības un veikt darbības tīmeklī. Tā ir bieži izmantota testēšanā un datu iegūšanā no tīmekļa lapām, piemēram, meklējot un aizpildot veidlapas vai noklikšķinot uz pogām.
+Time: Šī bibliotēka nodrošina funkcijas laika aizkavēšanai vai pauzēm programmā.
+Sys: Tiek izmantots, lai pārtrauktu programmas izpildi, nododot atpakaļ izpildes rezultātu.
 
 # Secinājums:
 Pēc veiksmīgas koda izstrādes un ieviešanas rezultāti pārsniedza mūsu cerības, piedāvājot daudz vairāk nekā vienkāršu cenu salīdzinājumu. Mēs redzam, kā mūsu projekts kļūst par neatsiešamu daļu no ainavu dizaineru radošā procesa.
