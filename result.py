@@ -1,3 +1,6 @@
+import selenium
+import time
+import sys
 from selenium import webdriver 
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
@@ -5,8 +8,6 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import TimeoutException, NoSuchElementException, WebDriverException
-import time
-import sys
 
 url_baltezers = "https://www.baltezers.lv/sortiment"
 url_stadu_audzetsva = "https://stadu-audzetava.lv/katalogi/"
